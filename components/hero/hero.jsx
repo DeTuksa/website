@@ -28,7 +28,7 @@ export default function Hero({ article, ...props }) {
         <div className={s.root}>
           {/* Title  */}
           <Fade>
-            <h1 className="title">Mateo Nunez</h1>
+            <h1 className="title">Emmanuel David Tuksa</h1>
           </Fade>
           {/* Terminal  */}
           <Fade direction="left">
