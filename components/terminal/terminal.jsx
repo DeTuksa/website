@@ -13,7 +13,7 @@ const Line = ({ text, noPrompt = false, noCaret = false }) => (
   <>
     {!noPrompt && (
       <>
-        <span className="font-black text-amber-500">MN </span>
+        <span className="font-black text-amber-500">tuksa </span>
         <span>&gt; </span>
       </>
     )}
@@ -23,13 +23,12 @@ const Line = ({ text, noPrompt = false, noCaret = false }) => (
 );
 
 const paragraphs = [
-  "Hey there! I'm Mateo 👋",
+  "Hey there! I'm Emmanuel 👋",
   '',
-  "👨‍💻 I'm a Senior Software Engineer at BonusX.",
-  '⌨️ I code often in JavaScript, TypeScript and Python.',
-  "💭 I'm currently learning Rust and Zig.",
-  '☁️ I Love the Cloud and sometimes I play with K8S, AWS and CNCF treats.',
-  '📐 My favourite setup is: VS Code with Vim, tmux and Colemak layout.',
+  "👨‍💻 I'm a Senior Software Engineer.",
+  '⌨️ I write code often in Dart, JavaScript, TypeScript and Python.',
+  "💭 I'm currently learning Rust and Go.",
+  "☁️ I'm proficient with Cloud platforms and I work with Azure and AWS.",
   '',
   '',
 ];
